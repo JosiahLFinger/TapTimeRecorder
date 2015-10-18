@@ -23,4 +23,5 @@
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/record_time_button"
     />
+
 </RelativeLayout>
